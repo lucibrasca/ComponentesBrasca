@@ -1,0 +1,12 @@
+aside {
+    height: calc(100vh - var(--header-alto));
+    width: var(--sidebar-ancho);
+    background-color: blanchedalmond;
+    position: fixed;
+    padding: 0 1rem;
+   
+}
+
+aside p {
+    margin: 0;
+}

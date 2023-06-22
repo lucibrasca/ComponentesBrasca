@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --header-alto: 60px;
+    --sidebar-ancho: 200px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+margin: 0;
+}

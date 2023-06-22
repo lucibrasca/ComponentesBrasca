@@ -1,0 +1,7 @@
+main {
+    padding: 1rem;
+    background-color:gainsboro;
+    margin-left: var(--sidebar-ancho);
+    height: calc(100vh - var(--header-alto));
+    overflow: auto;
+}
